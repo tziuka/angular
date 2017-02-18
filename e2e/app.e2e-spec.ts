@@ -1,10 +1,10 @@
-import { Date16pPage } from './app.po';
+import { Date16Page } from './app.po';
 
-describe('date16p App', function() {
-  let page: Date16pPage;
+describe('date16 App', function() {
+  let page: Date16Page;
 
   beforeEach(() => {
-    page = new Date16pPage();
+    page = new Date16Page();
   });
 
   it('should display message saying app works', () => {
